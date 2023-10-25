@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "amazon-cognito-identity-js": "^3.0.15",
+    "amazon-cognito-identity-js": "^4.6.2",
     "aws-sdk": "^2.521.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
